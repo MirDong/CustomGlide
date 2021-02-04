@@ -1,0 +1,2 @@
+# CustomGlide
+依据Glide源码分析，参考Glide生命周期与缓存核心思想，简单实现了自定义的Glide，后续需要逐步完善
